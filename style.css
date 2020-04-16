@@ -117,7 +117,9 @@
      font-size: 100%;
      vertical-align: baseline;
      background: transparent;
-     text-decoration: none;
+     text-decoration: underline;
+     color: #006080;
+     font-weight: bold;
    }
    
    mark {
